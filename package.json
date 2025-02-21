@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://machawk1.github.io/7pm/",
+  "homepage": "https://github.com/machawk1/7pm/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
